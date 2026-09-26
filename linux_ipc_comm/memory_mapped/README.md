@@ -1,6 +1,6 @@
 # Simple Shared Memory Example in C
 
-A server and a client that share data through shared memory.
+A server and a client that share data through file using memory mapped IPC method.
 
 ## Compile
 
