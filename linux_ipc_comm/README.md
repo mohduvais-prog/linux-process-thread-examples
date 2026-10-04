@@ -1,6 +1,7 @@
 # Sample Linux IPC (Inter Process Communication) examples in C
 
 Following Linux IPC examples are given in this repo
+```sh
 Linux Shared Memory Example
 Linux Pipe Example
 Linux FIFO Example
